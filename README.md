@@ -1,4 +1,4 @@
----
+* * *
 
 Sowwy, the repository was archived. I don't use ideaseed anymoar :/
 
@@ -6,7 +6,7 @@ You can find a spiritual successor, that i use now to fill this need: `issurge n
 
 See https://github.com/gwennlbh/issurge
 
----
+* * *
 
 <center><p align="center">
 <img alt="ideaseed" src="https://raw.githubusercontent.com/gwennlbh/ideaseed/master/visual-identity/ideaseed-logomark-color-transparent.svg" width="550px">
