@@ -1,5 +1,15 @@
+---
+
+Sowwy, the repository was archived. I don't use ideaseed anymoar :/
+
+You can find a spiritual successor, that i use now to fill this need: `issurge new just type words here`
+
+See https://github.com/gwennlbh/issurge
+
+---
+
 <center><p align="center">
-<img alt="ideaseed" src="https://raw.githubusercontent.com/ewen-lbh/ideaseed/master/visual-identity/ideaseed-logomark-color-transparent.svg" width="550px">
+<img alt="ideaseed" src="https://raw.githubusercontent.com/gwennlbh/ideaseed/master/visual-identity/ideaseed-logomark-color-transparent.svg" width="550px">
   <br>
 <a href="https://pypi.org/project/ideaseed"><img alt="PyPI Latest version" src="https://img.shields.io/pypi/v/ideaseed"/></a>
 <a href="https://pepy.tech/project/ideaseed"><img alt="Downloads count" src="https://pepy.tech/badge/ideaseed"/></a>
@@ -7,9 +17,9 @@
 
 Do you have ideas suddenly and just wished you could catch them as fast as possible, as to not loose them, without having to interrupt what you were doing?
 
-As I guy with a lot of more or less stupid ideas, I use Google Keep as a centralized place to put all of my thoughts that I deem worthy of consideration.
+As a gal with a lot of more or less stupid ideas, I use Google Keep as a centralized place to put all of my thoughts that I deem worthy of consideration.
 
-I recently started to use GitHub Projects for _coding_ project ideas as a [single project called "incubator" on my GitHub profile directly](https://github.com/ewen-lbh?tab=projects), and as issues or notes when the idea is related to an already-existing project and repo.
+I recently started to use GitHub Projects for _coding_ project ideas as a [single project called "incubator" on my GitHub profile directly](https://github.com/gwennlbh?tab=projects), and as issues or notes when the idea is related to an already-existing project and repo.
 
 But when I don't get to decide _when_ this idea comes, and I often need to interrupt what am I doing to open github, get to the right page, input my idea and get back. And I find it frustrating.
 
@@ -64,7 +74,7 @@ Ideaseed is available [on PyPI.org](https://pypi.org/project/ideaseed):
 
 ```sh
 pip install ideaseed # latest version
-pip install git+https://github.com/ewen-lbh/ideaseed # latest commit
+pip install git+https://github.com/gwennlbh/ideaseed # latest commit
 ```
 
 <!-- ### Arch Linux
@@ -83,7 +93,7 @@ The location of that auth cache is configurable through the `--auth-cache` flag.
 
 You can manually login to both Google Keep and GitHub with `ideaseed login`, and clear the cache with `ideaseed logout`.
 
-A support for keyrings as an alternative authentication method [is planned](https://github.com/ewen-lbh/ideaseed/issues/153)
+A support for keyrings as an alternative authentication method [is planned](https://github.com/gwennlbh/ideaseed/issues/153)
 
 ## Usage
 
@@ -158,7 +168,7 @@ Assign an issue to a milestone by specifying its name with `-M/--milestone`.
 #### Pin status
 
 Pin your Google Keep card with `--pin`.
-Support for github issues [is planned](https://github.com/ewen-lbh/issues/155)
+Support for github issues [is planned](https://github.com/gwennlbh/issues/155)
 
 #### Colors
 
@@ -434,14 +444,14 @@ Local Copy:
     Or that --dry-run was used.
 ```
 
-[v1.0.0]: https://github.com/ewen-lbh/ideaseed/milestone/2
-[v0.4.0]: https://github.com/ewen-lbh/ideaseed/tree/master/CHANGELOG.md#040---2020-06-18
-[v0.9.0]: https://github.com/ewen-lbh/ideaseed/blob/master/CHANGELOG.md#090---2020-06-22
+[v1.0.0]: https://github.com/gwennlbh/ideaseed/milestone/2
+[v0.4.0]: https://github.com/gwennlbh/ideaseed/tree/master/CHANGELOG.md#040---2020-06-18
+[v0.9.0]: https://github.com/gwennlbh/ideaseed/blob/master/CHANGELOG.md#090---2020-06-22
 
 * * *
 
 <center><p align="center">
-  <img src="https://raw.githubusercontent.com/ewen-lbh/ideaseed/master/visual-identity/ideaseed-logo-black-transparent.png" width="40px">
+  <img src="https://raw.githubusercontent.com/gwennlbh/ideaseed/master/visual-identity/ideaseed-logo-black-transparent.png" width="40px">
   <br>
   ideaseed by <a href="https://ewen.works">Ewen Le Bihan</a>
 </p></center>
